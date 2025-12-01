@@ -1,13 +1,6 @@
 /********************************************************************************
  * FILENAME: god_level_schema.sql
- * DIALECT: Snowflake SQL
- * COMPLEXITY: GOD LEVEL (Tier 1)
- * FEATURES: 
- * - MATCH_RECOGNIZE (Row Pattern Matching)
- * - RECURSIVE CTEs (Hierarchical Depth)
- * - GEOGRAPHY & GEOMETRY (Spatial Polygons)
- * - SEMI-STRUCTURED (Lateral Flatten, Object_Agg)
- * - STATISTICAL (MinHash, Approximate Percentiles)
+
  ********************************************************************************/
 
 -- ==============================================================================
